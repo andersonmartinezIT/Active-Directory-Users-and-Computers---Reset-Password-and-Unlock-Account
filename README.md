@@ -1,6 +1,5 @@
 # Active-Directory-Users-and-Computers---Reset-Password-and-Unlock-Account
 
-<h1>Active Directory Users and Computers Reset Password and Unlock Accounts</h1>
 
 <h2>Video Demonstration</h2>
 
