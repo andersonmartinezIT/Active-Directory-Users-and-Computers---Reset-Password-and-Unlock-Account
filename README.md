@@ -14,7 +14,7 @@ Microsoft Windows 10/11<br />
 Microsoft Windows Server</p>
 
 
-<p>For this part of the project it is better to watch the Youtube video as it has many steps. Creating accounts and login into multiple accounts As well as creating a sample support ticket. 
+<p>For this part of the project it is better to watch the Youtube video as it has many steps. We will be login into multiple accounts. 
 </p>
 
 
