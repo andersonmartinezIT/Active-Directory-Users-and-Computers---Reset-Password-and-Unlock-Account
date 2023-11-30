@@ -1,6 +1,8 @@
 # Active-Directory-Users-and-Computers---Reset-Password-and-Unlock-Account
 
-
+<p align="center">
+<img src="https://unifysolutions.net/supportedproduct/adfs/active-directory-1.svg" alt="osTicket logo"/>
+</p>
 <h2>Video Demonstration</h2>
 
 -<h3>Check out <a href="https://youtu.be/AXYLhznPy-k" target="_blank">YouTube: How To Reset Passwords and Unlock Accounts</a>.</h3>
